@@ -1,4 +1,4 @@
-package com.dadn.demo;
+package com.web.chat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
